@@ -1,5 +1,5 @@
 
-![https://i.fastimg.org/2d75FT5.png](aaa)
+![](https://i.fastimg.org/2d75FT5.png)
 <!--
 
 **Here are some ideas to get you started:**
