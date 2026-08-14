@@ -1,143 +1,117 @@
+<div align="center">
 
-![](https://i.fastimg.org/2d75FT5.png) Logo by DAN
+<img src="https://raw.githubusercontent.com/EmpireAds/.github/main/profile/assets/logo.png" width="220" alt="EmpireAds">
 
 <h1 align="center">Empire Project MGMT</h1>
+
+<p align="center">
+  <b>An affiliate network, and the tools we build to run it.</b><br>
+  Offers, tracking, payouts, and the internal software that keeps all three honest.
+</p>
+
+<p align="center">
+  <a href="https://github.com/orgs/EmpireAds/repositories">Repositories</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/orgs/EmpireAds/projects">Project Boards</a>
+  &nbsp;&middot;&nbsp;
+  <a href="#project-board">Status</a>
+  &nbsp;&middot;&nbsp;
+  <a href="#working-with-us">Get in touch</a>
+</p>
+
+<sub>Logo by <b>DAN</b></sub>
+
+</div>
+
+---
+
+## What we build
+
+EmpireAds runs an affiliate network and the software stack around it. Two halves:
+
+- **The network.** Advertiser offers, publisher onboarding, conversion tracking, and payouts.
+- **The tools.** Internal dashboards, reporting pipelines, fraud and quality checks, and the automation that removes manual steps from the above.
+
+This page is the front door. The table below is the honest answer to "what is everyone actually working on right now".
+
+---
+
+## Project board
+
+> Replace the placeholder rows with your real projects. One line per project, one edit to update.
+
+| Project | Status | Owner | Now working on | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tracking Core** | 🟢 Live | @owner | Postback retry queue | [repo](#) · [board](#) |
+| **Partner Dashboard** | 🔵 Beta | @owner | Invite-only rollout, feedback pass | [repo](#) · [board](#) |
+| **Payouts Engine** | 🟡 Building | @owner | Multi-currency support | [repo](#) · [board](#) |
+| **Fraud Signals** | 🟠 Scoping | @owner | Deciding data sources | [repo](#) · [board](#) |
+| **Offer Importer** | ⚪ Maintenance | @owner | Security patches only | [repo](#) · [board](#) |
+| **Legacy Reporting** | 🔴 Paused | @owner | Blocked on Tracking Core v2 | [repo](#) · [board](#) |
+
+**Last reviewed:** _set a date here and update it whenever you touch this table._
+
+---
+
+## Status legend
+
+A status is a promise, not a mood. Each one has a rule that has to be true before a project can wear it, which is what stops everything quietly drifting into a permanent "Building".
+
+| Status | Means | Only if this is true |
+| :--- | :--- | :--- |
+| 🟠 **Scoping** | We are deciding what to build | An open issue describes the problem, no implementation work has started |
+| 🟡 **Building** | Active development | Someone committed code in the last two weeks |
+| 🔵 **Beta** | Real users, limited blast radius | Deployed, in use by a known group, breaking changes still allowed |
+| 🟢 **Live** | In production, depended on | Monitored, on-call covered, breaking changes need a migration plan |
+| ⚪ **Maintenance** | Stable, no new features planned | Security and bug fixes only, still supported |
+| 🔴 **Paused** | Stopped on purpose | The reason and the unblocker are written in the "Now working on" column |
+
+Anything that cannot honestly hold its status gets moved down, or moved to **Paused** with a reason. A stale board is worse than no board, because people trust it and act on it.
+
+---
+
+## How work is tracked
+
+The table above is the summary. The detail lives in GitHub.
+
+- **Boards.** Every active project has a board under the org [Projects](https://github.com/orgs/EmpireAds/projects) tab. That is the source of truth for day to day work, not this page.
+- **Issues.** Work starts as an issue in the project's own repo. If the work spans repos, it goes in the coordinating repo and links out.
+- **Branches.** Branch from `main`, name it after the issue, open a pull request early as a draft. Small pull requests get reviewed, large ones get postponed.
+- **Definition of done.** Merged to `main`, deployed, and the issue closed by the pull request. Not merged. Not "done locally".
+
+### Labels we use
+
+| Label | Meaning |
+| :--- | :--- |
+| `bug` | Something is broken in production |
+| `feature` | New capability |
+| `chore` | Dependencies, tooling, cleanup |
+| `blocked` | Cannot progress, the blocker is named in the thread |
+| `needs-decision` | Waiting on a human call, not on code |
+
+---
+
+## Working with us
+
+**Want something built or changed?** Open an issue in the relevant repo. A good request states the problem and the impact, not the solution. "Publisher payouts take three days to reconcile" gets a better answer than "add a CSV export button".
+
+**Found a bug?** Open an issue with what you did, what you expected, and what happened instead. Include the timestamp and any IDs. Do not put credentials, API keys, or partner data in a public issue.
+
+**Security issue?** Do not open a public issue. Use the contact below and we will get you a private channel.
+
+**New to the org?** Read this page, then find your project's board, then pick up something labelled `feature` or `chore` to get your first pull request through the process.
+
+---
+
+## Contact
+
+| Reason | Where |
+| :--- | :--- |
+| Partnerships and offers | _add email_ |
+| Publisher and affiliate support | _add email_ |
+| Security disclosure | _add email_ |
+| Internal team | _add channel_ |
+
 <div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
-</a></div><a href="https://ossinsight.io">
-</a><h4 align="center"><a href="https://ossinsight.io">
-  <b></b></a><b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h4>
-<h2 id="introduction">Introduction</h2>
-<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
-<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
-<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
-<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Repository Activity Trends</th><th>Collaborative Productivity - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=11855343&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Star Geographic Distribution</th><th>Star History</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&amp;repo_id=11855343&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Company Affiliation</th><th>Lines of Code Changes</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&amp;repo_id=11855343&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Pull Request Size</th><th>Pull Request Lifecycle</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Currently Working On - Last 28 days</th><th>Top Active Contributors - Last 28 Days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&amp;user_id=12960671&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=11855343&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Repository Annual Ranking</th><th>Find More</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&amp;collection_id=2&amp;image_size=auto"></td><td><a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Visit our website</a></td></tr></tbody></table>
-<h2 id="contact-us">Contact us</h2>
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
-</a><a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
-</a><a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px;">
-<h2 id="sponsors">Sponsors</h2>
-</a><a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&amp;utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
-</a> 
-
--->
+<sub><b>EmpireAds</b> · Logo by <b>DAN</b></sub>
+</div>
