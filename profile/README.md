@@ -1,8 +1,7 @@
 
-![](https://i.fastimg.org/2d75FT5.png)
-logo prod by dan
+![](https://i.fastimg.org/2d75FT5.png) Logo by DAN
 
-  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">Empire Project MGMT</h1>
 <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
@@ -141,11 +140,4 @@ logo prod by dan
 <img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
 </a> 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
